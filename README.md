@@ -1,0 +1,2 @@
+# trojansh
+install trojan sh
